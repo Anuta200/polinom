@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\binom\binom\Main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\binom\binom\Monom.h">
+    <ClInclude Include="monom.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
